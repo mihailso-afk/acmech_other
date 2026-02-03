@@ -1,5 +1,7 @@
-# acmech_other
-# Установка учетных данных
+Site:Timeweb.com
+Docs:https://timeweb.com/ru/docs/publichnyj-api-timeweb/metody-api-dlya-virtualnogo-hostinga/
+
+Options:
 export TW_Login="cn12345"
 export TW_Token="ваш_токен"
 export TW_AppKey="ваш_appkey"
